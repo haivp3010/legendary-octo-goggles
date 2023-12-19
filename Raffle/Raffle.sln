@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaffleApp.Core", "RaffleApp.Core\RaffleApp.Core.csproj", "{990A4675-AB0C-43B9-A32A-9B85BD9499C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaffleApp.ConsoleUI", "RaffleApp.ConsoleUI\RaffleApp.ConsoleUI.csproj", "{15A0518F-2CDD-4E47-96C5-7DA2BD932257}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaffleApp.Tests", "RaffleApp.Tests\RaffleApp.Tests.csproj", "{4813C5CA-37C5-4572-B749-BD78AABA8695}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{990A4675-AB0C-43B9-A32A-9B85BD9499C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{990A4675-AB0C-43B9-A32A-9B85BD9499C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{990A4675-AB0C-43B9-A32A-9B85BD9499C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{990A4675-AB0C-43B9-A32A-9B85BD9499C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15A0518F-2CDD-4E47-96C5-7DA2BD932257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15A0518F-2CDD-4E47-96C5-7DA2BD932257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15A0518F-2CDD-4E47-96C5-7DA2BD932257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15A0518F-2CDD-4E47-96C5-7DA2BD932257}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4813C5CA-37C5-4572-B749-BD78AABA8695}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4813C5CA-37C5-4572-B749-BD78AABA8695}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4813C5CA-37C5-4572-B749-BD78AABA8695}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4813C5CA-37C5-4572-B749-BD78AABA8695}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
